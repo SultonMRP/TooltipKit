@@ -1,0 +1,10 @@
+## Interface: 120100, 16001
+## Title: TooltipKit
+## Notes: Shared tooltip kind checks and one line pass for Forever
+## Author: Micheal
+## Version: 1.0
+## AllowLoadGameType: camelot, mainline
+## Category-enUS: Library
+
+LibStub.lua
+TooltipKit.lua
